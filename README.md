@@ -21,7 +21,7 @@ Insights:
 
 Key Recommendations:
 
-1) We can over booked the summer monh reservation, with that we can reduce cancellations
+1) We can over booked the summer month reservation, with that we can reduce cancellations
 2) Focus more on the booking between 0-30days during the summer period(July and August)
 3) Reducing the Avg daily rate  might reduce cancellatios
 
