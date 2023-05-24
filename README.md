@@ -31,5 +31,4 @@ Learning Outcomes:
 2) Created power point dashboard template for  dashboard purpose.
 3) Created different measures to calculate Key Performance indiactor like Total Revenue, Cancellation rate, Average Daily rate, Revenue Loss
 4) Used differnt types of DAX expressions to create Datemaster table, with the help Datemaster table we can calculate time series Analysis easily
-5) Different Types of DAX functions are 
 
