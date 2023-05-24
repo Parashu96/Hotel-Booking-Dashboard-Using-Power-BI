@@ -3,6 +3,7 @@
 ![Final_Dashboard2](https://github.com/Parashu96/Hotel-Booking-Dashboard-Using-Power-BI/assets/121815820/22e8a500-1a2f-4d7f-a3b8-48c076040037)
 
 Problem Statement: 
+
 Hotel manager has shared a hotel dataset containing Resort and City hotel data from 2015 to 2017, their central interest is to get insight from the year 2016 under resort hotel during the summer period (July and August). Although they need to see insight on other months too.
  
  KPIs: 
@@ -19,11 +20,13 @@ Insights:
 4) Summer booking within 30 days high cancellation, it might be affected by the high Average daily rate
 
 Key Recommendations:
+
 1) We can over booked the summer monh reservation, with that we can reduce cancellations
 2) Focus more on the booking between 0-30days during the summer period(July and August)
 3) Reducing the Avg daily rate  might reduce cancellatios
 
 Learning Outcomes:
+
 1) Created an interactive dashboard to track and analyze Hotel Booking data.
 2) Created power point dashboard template for  dashboard purpose.
 3) Created different measures to calculate Key Performance indiactor like Total Revenue, Cancellation rate, Average Daily rate, Revenue Loss
