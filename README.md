@@ -23,12 +23,12 @@ Key Recommendations:
 
 1) We can over booked the summer month reservation, with that we can reduce cancellations
 2) Focus more on the booking between 0-30days during the summer period(July and August)
-3) Reducing the Avg daily rate  might reduce cancellatios
+3) Reducing the Avg daily rate  might reduce cancellations
 
 Learning Outcomes:
 
 1) Created an interactive dashboard to track and analyze Hotel Booking data.
 2) Created power point dashboard template for  dashboard purpose.
-3) Created different measures to calculate Key Performance indiactor like Total Revenue, Cancellation rate, Average Daily rate, Revenue Loss
-4) Used differnt types of DAX expressions to create Datemaster table, with the help Datemaster table we can calculate time series Analysis easily
+3) Created different measures to calculate Key Performance indicator like Total Revenue, Cancellation rate, Average Daily rate, Revenue Loss
+4) Used different types of DAX expressions to create Date master table, with the help Date master table we can calculate time series Analysis easily
 
